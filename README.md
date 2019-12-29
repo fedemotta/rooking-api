@@ -2,17 +2,16 @@
 
 This is the Rooking REST API
 
-## installation:
+## Docker image build:
 
 ```bash
-brew install python3
-python3 --version
-brew install pip
-pip3 install virtualenv
-virtualenv flask
-flask/bin/pip3 install flask
-chmod a+x app.py
-./app.py
+docker build -t rooking-api .
+```
+
+## Docker container start:
+
+```bash
+docker run --rm -d --name=rooking-api -p 5000:5000 rooking-api
 ```
 
 ## Available Methods:
