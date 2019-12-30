@@ -1,0 +1,179 @@
+[
+  {
+    "id": 0,
+    "name": "Playadito",
+    "location": {
+      "name": "Vicente Lopez",
+      "floor": 2
+    },
+    "image": "https://www.deliargentina.es/wp-content/uploads/2019/01/Yerba-Mate-Argentina-Playadito-Kilo.png",
+    "timeSlot": [
+      {
+        "timeFrom": "10:00",
+        "timeTo": "10:30",
+        "owner": null,
+        "locked": false
+      },
+      {
+        "timeFrom": "10:30",
+        "timeTo": "11:00",
+        "owner": "gaston",
+        "locked": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "CBSé",
+    "location": {
+      "name": "Vicente Lopez",
+      "floor": 2
+    },
+    "timeSlot": [
+      {
+        "timeFrom": "10:00",
+        "timeTo": "10:30",
+        "owner": "gaston",
+        "locked": false
+      },
+      {
+        "timeFrom": "10:30",
+        "timeTo": "11:00",
+        "owner": null,
+        "locked": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "La Tranquera",
+    "location": {
+      "name": "Vicente Lopez",
+      "floor": 2
+    },
+    "timeSlot": [
+      {
+        "timeFrom": "10:00",
+        "timeTo": "10:30",
+        "owner": null,
+        "locked": false
+      },
+      {
+        "timeFrom": "10:30",
+        "timeTo": "11:00",
+        "owner": null,
+        "locked": false
+      },
+      {
+        "timeFrom": "11:00",
+        "timeTo": "11:30",
+        "owner": null,
+        "locked": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Taragüí",
+    "location": {
+      "name": "Vicente Lopez",
+      "floor": 2
+    },
+    "timeSlot": [
+      {
+        "timeFrom": "12:00",
+        "timeTo": "13:00",
+        "owner": null,
+        "locked": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cruz de malta",
+    "location": {
+      "name": "Almagro",
+      "floor": 1
+    },
+    "timeSlot": [
+      {
+        "timeFrom": "12:00",
+        "timeTo": "12:30",
+        "owner": null,
+        "locked": false
+      },
+      {
+        "timeFrom": "12:30",
+        "timeTo": "13:00",
+        "owner": null,
+        "locked": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rosamonte",
+    "location": {
+      "name": "Almagro",
+      "floor": 1
+    },
+    "timeSlot": [
+      {
+        "timeFrom": "12:00",
+        "timeTo": "12:30",
+        "owner": null,
+        "locked": false
+      },
+      {
+        "timeFrom": "12:30",
+        "timeTo": "13:00",
+        "owner": null,
+        "locked": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Adelgamate",
+    "location": {
+      "name": "Vicente Lopez",
+      "floor": 5
+    },
+    "timeSlot": [
+      {
+        "timeFrom": "12:00",
+        "timeTo": "12:30",
+        "owner": null,
+        "locked": false
+      },
+      {
+        "timeFrom": "12:30",
+        "timeTo": "13:00",
+        "owner": null,
+        "locked": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Nobleza Gaucha",
+    "location": {
+      "name": "Vicente Lopez",
+      "floor": 2
+    },
+    "timeSlot": [
+      {
+        "timeFrom": "12:00",
+        "timeTo": "12:30",
+        "owner": null,
+        "locked": false
+      },
+      {
+        "timeFrom": "12:30",
+        "timeTo": "13:00",
+        "owner": null,
+        "locked": false
+      }
+    ]
+  }
+]
